@@ -1,3 +1,3 @@
 # googlesearch
 
-add some information
+parse rss file, use build-in lib.
