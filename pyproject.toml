@@ -1,0 +1,17 @@
+[project]
+name = "googlesearch-ba"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "bbh", email = "535597762@qq.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+googlesearch-ba = "googlesearch_ba:main"
+
+[build-system]
+requires = ["uv_build>=0.6.13,<0.7"]
+build-backend = "uv_build"
